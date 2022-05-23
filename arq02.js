@@ -1,1 +1,1 @@
-console.log("Esse é o arquivo 02");
+console.log("Esse é o arquivo 02. Alteramos o texto para subir no git Hub");
