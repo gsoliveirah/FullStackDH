@@ -1,1 +1,1 @@
-console.log("Esse é o arquivo 01");
+console.log("Esse é o arquivo 01. Por aqui começamos tudo!");
